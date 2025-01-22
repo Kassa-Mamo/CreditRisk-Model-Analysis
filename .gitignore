@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+.vscode/ 
+.github/ 
+*.ipynb_checkpoints 
+data/raw/ 
+.DS_Store 

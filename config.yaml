@@ -1,0 +1,5 @@
+data_path: "C:/Users/user/Desktop/10 Academy- Machine-Learning/10 Academy W6/data/data.csv" 
+variable_definitions_path: "C:/Users/user/Desktop/10 Academy- Machine-Learning/10 Academy W6/data/Xente_Variable_Definitions.csv" 
+processed_data_path: "data/processed/" 
+model_path: "models/" 
+plots_path: "outputs/plots/" 
